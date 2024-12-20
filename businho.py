@@ -39,11 +39,11 @@ def clear_screen():
 a = 0
 b = 0
 
+clear_screen()
 print("💵💵💵🤑💰  FAÇAM SUAS APOSTAS 💰🤑💵💵💵")
 print("  UE ❌ LO  ")
 print("🏁🏁🏁 Pressione Enter para corrida 🏁🏁🏁")
 input()
-clear_screen()
 
 # aqui inicia el audio cuando comienza la carrera
 play_audio()
